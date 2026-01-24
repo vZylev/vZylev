@@ -30,6 +30,6 @@
 - 🌱 I’m currently learning Java for Minecraft mods. (Outdated lmao)
 - 📫 How to reach me:
  nononono, just Discord
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 
 | [![My Discord](https://lanyard.cnrad.dev/api/768739986064670751)](https://discord.com/users/768739986064670751) |
