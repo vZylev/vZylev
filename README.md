@@ -26,7 +26,7 @@
 ---
 
 - 🔭 I’m currently working on ...
-  - Butter Launcher (An Hytale Launcher)
+  - Nintendo Stuff!
 - 🌱 I’m currently learning Java for Minecraft mods. (Outdated lmao)
 - 📫 How to reach me:
  nononono, just Discord
